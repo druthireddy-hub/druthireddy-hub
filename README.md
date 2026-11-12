@@ -32,7 +32,13 @@ I enjoy exploring new technologies, working with data, experimenting with machin
 
 An AI-based fire and smoke detection project exploring computer vision and object detection using YOLO.
 
-*More projects and detailed documentation coming soon.*
+
+
+### 🛍️ CelebCart
+
+A TypeScript-based web application project focused on software development and building web-based applications.
+
+[View CelebCart Repository](https://github.com/druthireddy-hub/CELEBCART)
 
 ---
 
