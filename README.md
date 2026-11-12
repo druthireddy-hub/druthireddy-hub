@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Druthi 👋
 
-<!--
-**druthireddy-hub/druthireddy-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student | Aspiring Machine Learning Engineer
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student interested in building practical solutions using software development and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring new technologies, working with data, experimenting with machine learning models, and developing projects that solve real-world problems.
+
+- 🎓 Pursuing B.Tech in Computer Science and Engineering
+- 🤖 Exploring Machine Learning, Deep Learning and Computer Vision
+- 🐍 Working with Python and data science libraries
+- 🔭 Interested in developing practical AI/ML applications
+- 🌱 Currently strengthening my programming and problem-solving skills
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming:** Python, HTML, TypeScript
+
+**Machine Learning & Data Science:** Scikit-learn, Pandas, NumPy
+
+**Data Visualization:** Matplotlib, Seaborn, Plotly
+
+**Tools:** Git, GitHub, Jupyter Notebook
+
+---
+
+## 🚀 Projects
+
+### 🔥 FireGuard AI
+
+An AI-based fire and smoke detection project exploring computer vision and object detection using YOLO.
+
+*More projects and detailed documentation coming soon.*
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning algorithms
+- Deep Learning fundamentals
+- Model evaluation and optimization
+- Data Structures and Algorithms
+- Software development practices
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, collaborating and building interesting projects.
+
+[GitHub](https://github.com/druthireddy-hub)
